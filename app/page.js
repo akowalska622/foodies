@@ -9,7 +9,7 @@ export default function Home() {
         <div className={classes.slideshow}></div>
         <div>
           <div className={classes.hero}>
-            <h1>Next Level Food for Next Level Foodies</h1>
+            <h1>Next&nbsp;Level Food for Next&nbsp;Level Foodies</h1>
             <p>Taste & share food from all over the world.</p>
           </div>
           <div className={classes.cta}>
